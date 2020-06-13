@@ -1,0 +1,23 @@
+{
+  "name": "@jjavery/dmd-jjavery",
+  "author": "James P. Javery <james.javery@gmail.com> (https://github.com/jjavery)",
+  "contributors": [
+    "Lloyd Brookes <75pound@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "description": "Plugin for jsdoc2md to produce markdown suitable for API documentation",
+  "repository": "jjavery/dmd-jjavery",
+  "main": "./src/dmd-jjavery.js",
+  "keywords": [
+    "dmd",
+    "jsdoc2md",
+    "jsdoc",
+    "docs",
+    "documentation"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {},
+  "license": "MIT"
+}
